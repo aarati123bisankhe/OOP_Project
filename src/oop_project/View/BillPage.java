@@ -74,10 +74,6 @@ public class BillPage extends JFrame {
         }
     }
 
-    public static void main(String[] args) {
-        BillPage billPage = new BillPage();
-        billPage.setVisible(true);
-    }
 }
     
     
